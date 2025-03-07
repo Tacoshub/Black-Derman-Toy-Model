@@ -2,8 +2,6 @@
 
 # **Interest Rate Modeling: Lognormal Spot Rate Models**
 
----
-
 ## **Overview**
 
 This repository presents a comprehensive study on **lognormal spot rate models**, with a particular focus on the **Black-Derman-Toy (BDT) model** and its extensions. The report explores key theoretical concepts, numerical methodologies, and empirical findings relevant to interest rate modeling. 
@@ -16,8 +14,6 @@ The main objectives of this work are:
 - To present a **correction approach** based on the Sandmann-Sondermann methodology.
 
 The repository includes both theoretical derivations and numerical implementations in **Python**.
-
----
 
 ## **Contents**
 
@@ -44,8 +40,6 @@ The repository includes both theoretical derivations and numerical implementatio
 - Implications for arbitrage-free pricing of Eurodollar futures.
 - The correction by Sandmann and Sondermann through effective rate modeling.
 
----
-
 ## **Implementation**
 
 This repository includes **Python implementations** of the models discussed in the report. The numerical framework supports:
@@ -56,16 +50,12 @@ This repository includes **Python implementations** of the models discussed in t
 
 All implementations are structured for easy adaptation to new datasets and model parameters.
 
----
-
 ## **Results and Key Findings**
 
 - The **Black-Derman-Toy binomial short-rate tree** was successfully calibrated using historical yield and volatility data.
 - The **Zero Black-Derman-Toy model** effectively captures prolonged periods of low interest rates, making it well-suited for environments characterized by central bank interventions.
 - The study confirms that **lognormal short-rate models can lead to unstable pricing of Eurodollar futures**, emphasizing the need for alternative modeling approaches.
 - The **Sandmann-Sondermann correction** was validated as a viable solution, ensuring finite accumulation factors and stable derivative pricing.
-
----
 
 ## **Authors**
 - Flavio Salvatore Boccia  
