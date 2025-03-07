@@ -68,17 +68,14 @@ Below is a list of key references used in this project, covering foundational an
 1. **Black, F., Derman, E., & Toy, W. (1990).**  
    *A One-Factor Model of Interest Rates and Its Application to Treasury Bond Options.*  
    The Journal of Fixed Income, 1(1), 2-8.  
-   [DOI:10.3905/jfi.1990.692303](https://doi.org/10.3905/jfi.1990.692303)
 
 2. **Black, F., & Karasinski, P. (1991).**  
    *Bond and Option Pricing when Short Rates are Lognormal.*  
    Financial Analysts Journal, 47(4), 52-59.  
-   [DOI:10.2469/faj.v47.n4.52](https://doi.org/10.2469/faj.v47.n4.52)
 
 3. **Sandmann, K., & Sondermann, D. (1993).**  
    *Log-Normal Interest Rate Models: Stability and Methodology.*  
    Mathematical Finance, 3(1), 1-15.  
-   [DOI:10.1111/j.1467-9965.1993.tb00008.x](https://doi.org/10.1111/j.1467-9965.1993.tb00008.x)
 
 4. **Hogan, S., & Weintraub, D. (1993).**  
    *Singularity and Explosive Behaviour in the Black-Derman-Toy Model.*  
@@ -87,7 +84,6 @@ Below is a list of key references used in this project, covering foundational an
 5. **Krzyżanowski, G., Mordecki, E., & Sosa, A. (2020).**  
    *Zero Black-Derman-Toy Interest Rate Model.*  
    Risk Management, 22(4), 89-106.  
-   [DOI:10.1007/s10203-020-00288-9](https://doi.org/10.1007/s10203-020-00288-9)
 
 6. **Hull, J. C. (2017).**  
    *Options, Futures, and Other Derivatives (10th ed.).*  
