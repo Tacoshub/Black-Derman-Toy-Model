@@ -15,24 +15,24 @@ The repository includes both theoretical derivations and numerical implementatio
 
 ## **Contents**
 
-### **1️ Lognormal Spot Rate Models**
+### **Lognormal Spot Rate Models**
 - Importance of spot rate models in bond pricing.
 - Properties and limitations of lognormal short-rate models.
 - Discussion of models including CIR, Hull-White, Dothan, and BDT.
 
-### **2️ The Black-Derman-Toy Model**
+### **The Black-Derman-Toy Model**
 - Mathematical formulation of the BDT model.
 - Link between continuous and discrete versions.
 - Calibration methodology using a binomial tree approach.
 - Numerical results and implementation details.
 
-### **3️ The Zero Black-Derman-Toy Model**
+### **The Zero Black-Derman-Toy Model**
 - Extension of the BDT model to accommodate zero interest rate policies (ZIRP).
 - Structural modifications and probabilistic framework.
 - Calibration procedure and empirical validation.
 - Application to bond and option pricing.
 
-### **4️ Pricing of Eurodollar Futures**
+### **Pricing of Eurodollar Futures**
 - Theoretical instability in pricing under lognormal short-rate models.
 - Analytical proof of explosive behavior in accumulation factors.
 - Implications for arbitrage-free pricing of Eurodollar futures.
