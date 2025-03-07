@@ -1,5 +1,3 @@
-# Black-Derman-Toy-Model
-
 # **Interest Rate Modeling: Lognormal Spot Rate Models**
 
 ## **Overview**
